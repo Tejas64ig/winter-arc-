@@ -1,1 +1,36 @@
 
+enchnces these skilss 
+
+                    FULL STACK JAVA
+                         │
+          ┌──────────────┴──────────────┐
+          │                             │
+       FRONTEND                      BACKEND
+          │                             │
+ HTML + CSS                        Core Java ✓
+ JavaScript                        OOP ✓
+ React ✓                           Collections
+                                  Exception Handling
+                                  Multithreading
+          │                             │
+          │                        Spring Boot ⭐
+          │                             │
+          │                    ┌────────┴────────┐
+          │                    │                 │
+          │                 REST API          Spring Data JPA
+          │                    │                 │
+          │                 │              Hibernate
+          │                 │
+          └─────────── API calls ───────────────┘
+                              │
+                          DATABASE
+                              │
+                         MySQL / PostgreSQL
+                              │
+                         Git + GitHub
+                              │
+                         Deployment
+                    Docker + Cloud basics   
+
+
+and at the end od this month  i'll start making project 
